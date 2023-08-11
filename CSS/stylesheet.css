@@ -1,3 +1,7 @@
+* {
+  background-image: url("../images/background.png");
+}
+
 p {
   font-size: 1.5em;
   color: #fe7f88;
