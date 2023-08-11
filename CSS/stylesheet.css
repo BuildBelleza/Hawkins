@@ -5,7 +5,7 @@ p {
   background-color: transparent;
 }
 
-body html {
+body, html {
   background-image: url("../images/background.png");
 }
 
