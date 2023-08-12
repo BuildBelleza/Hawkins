@@ -10,7 +10,7 @@ p {
 }
 
 html, main, body {
- background-image: url("https: //i.ibb.co/kKqM7z7/background.png");
+ background-image: url('https: //i.ibb.co/kKqM7z7/background.png');
 }
 
 .gallery {
