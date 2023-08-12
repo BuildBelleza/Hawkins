@@ -9,7 +9,7 @@ p {
   background-color: transparent;
 }
 
-body, html {
+html, main, body {
   background-image: url("./images/background.png");
 }
 
